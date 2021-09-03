@@ -27,5 +27,6 @@ $(document).ready(function(){
         $base_div.inputPicture().RemoveImage();
 
         $base_div.inputPicture().SetText("New Text");
+        $base_div.inputPicture().SetFontSize("32px");
     })
 })
