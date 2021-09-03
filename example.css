@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    background-color: #191815;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body a:hover {
+    text-decoration: none;
+}
