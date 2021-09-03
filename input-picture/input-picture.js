@@ -20,7 +20,7 @@ class InputPicture
         
         let defaults = {
             text: "Change Image",
-            default_image: "input-picture/no-image.png",
+            default_image: "no-image.png",
             circle: true,
             width: "165px",
             height: "165px",
